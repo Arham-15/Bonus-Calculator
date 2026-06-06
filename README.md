@@ -12,6 +12,7 @@ A Python-based application that calculates employee bonuses based on salary and 
 ## Technologies Used
 
 * Python 3
+* NumPy
 
 ## Project Structure
 
